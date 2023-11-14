@@ -1,6 +1,4 @@
-package com.chrony.dslistbackend.entities;
-
-import java.util.Objects;
+package com.chrony.dslist.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

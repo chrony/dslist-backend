@@ -1,4 +1,4 @@
-package com.chrony.dslistbackend;
+package com.chrony.dslist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
